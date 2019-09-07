@@ -142,7 +142,7 @@
 ### 1.4 、jdbc.properties
 
 ```properties
-url=jdbc:mariadb://120.79.235.35:3300/news
+url=jdbc:mariadb://127.0.0.1:3300/news
 username=root
 password=ikun2018
 initialSize=5
